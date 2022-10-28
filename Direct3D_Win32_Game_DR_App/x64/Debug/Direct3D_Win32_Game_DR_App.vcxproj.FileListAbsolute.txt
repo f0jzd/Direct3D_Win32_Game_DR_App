@@ -1,0 +1,1 @@
+C:\Users\tomas.savela\source\repos\Direct3D_Win32_Game_DR_App\Direct3D_Win32_Game_DR_App\x64\Debug\Direct3D_Win32_Game_DR_App.vcxproj.CopyComplete

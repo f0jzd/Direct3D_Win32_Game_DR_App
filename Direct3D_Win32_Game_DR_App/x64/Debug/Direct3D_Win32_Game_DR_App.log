@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\tomas.savela\source\repos\Direct3D_Win32_Game_DR_App\Direct3D_Win32_Game_DR_App\Game.cpp(119,10): warning C4189: 'hr': local variable is initialized but not referenced
+C:\Users\tomas.savela\source\repos\Direct3D_Win32_Game_DR_App\Direct3D_Win32_Game_DR_App\Game.cpp(178,10): warning C4189: 'hr': local variable is initialized but not referenced
+  Direct3D_Win32_Game_DR_App.vcxproj -> C:\Users\tomas.savela\source\repos\Direct3D_Win32_Game_DR_App\x64\Debug\Direct3D_Win32_Game_DR_App.exe
